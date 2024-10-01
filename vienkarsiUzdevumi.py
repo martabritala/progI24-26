@@ -65,4 +65,4 @@ def devitais(skaits):
         print("")
     return
 
-devitais(9)
+devitais(10)
